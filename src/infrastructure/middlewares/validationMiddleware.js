@@ -1,4 +1,4 @@
-const { body, validationResult } = require("express-validator");
+const { body, validationResult } = require("express-validator"); 
 
 // Middleware de validación para la creación de usuarios
 const validateUser = [
