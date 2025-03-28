@@ -1,5 +1,5 @@
 // Se Define las rutas y las conecta con el controlador
-// rutas para usuarios y las conecta con userController
+// rutas para usuarios y las conecta con userController 
 
 const express = require("express");
 const validateUser = require("../middlewares/validationMiddleware");
