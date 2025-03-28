@@ -1,4 +1,4 @@
-// Este archivo define la entidad User con sus propiedades y validaciones,
+// Este archivo define la entidad User con sus propiedades y validaciones
 
 class User {
     constructor(id, name, lastname, email, createdAt) {
