@@ -1,6 +1,6 @@
 // Este archivo maneja las consultas SQL para la entidad User
 // Se implementan funciones para obtener, crear y eliminar usuarios desde la base de datos
-// Devuelve instancias de User
+// Devuelve instancias de User 
 
 const connection = require("../database/mysqlConnection");
 const User = require("../../domain/user");
