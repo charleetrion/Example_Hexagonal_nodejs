@@ -1,5 +1,5 @@
 // reglas de negocio antes de acceder al repositorio, Valida datos antes de enviarlos al repositorio
-// Lógica de negocio para verificar si el usuario existe antes de eliminarlo
+// Lógica de negocio para verificar si el usuario existe antes de eliminarlo 
 
 const userRepository = require("../infrastructure/repositories/userRepository");
 
