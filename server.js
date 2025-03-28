@@ -1,4 +1,4 @@
-// Configuro Express y usa las rutas definidas en userRoutes.js 
+// Configuro Express y usa las rutas definidas en userRoutes.js  
 
 require("dotenv").config();
 const express = require("express");
