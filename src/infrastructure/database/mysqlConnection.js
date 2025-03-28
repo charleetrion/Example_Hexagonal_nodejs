@@ -1,6 +1,6 @@
 // Aquí configuramos la conexión a MySQL.
 // Se carga la configuración desde .env
-// conexión MySQL y se exporta para ser utilizada en userRepository.js
+// conexión MySQL y se exporta para ser utilizada en userRepository.js 
 
 require("dotenv").config();
 const mysql = require("mysql2");
