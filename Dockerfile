@@ -1,7 +1,7 @@
 # Usar Node.js oficial
 FROM node:18
 
-# Definir directorio de trabajo
+# Definir directorio de trabajo 
 WORKDIR /app
 
 # Copiar archivos necesarios
